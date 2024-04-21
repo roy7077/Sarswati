@@ -43,7 +43,7 @@ git clone https://github.com/roy7077/Sarswati.git
 - Define the required environment variables such as database connection URI, JWT secret, Razorpay API keys, etc.
 
 4. Start the server:
-- npm start
+- node index.js or nodemon index.js
 
 5. Access the API endpoints at https://sarswati-1.onrender.com/
 
